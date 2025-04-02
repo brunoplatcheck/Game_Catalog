@@ -8,7 +8,7 @@ To run this project, you need to have Flutter installed on your machine. Follow 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gamecatalog.git
+   git clone https://github.com/brunoplatcheck/gamecatalog.git
    ```
 2. Navigate to the project directory:
    ```bash
